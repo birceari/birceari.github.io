@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://birceari.github.io/birceari.txt.gz
+Sitemap: https://birceari.github.io/app/birceari.txt.gz
+Sitemap: https://birceari.github.io/assets/birceari.txt.gz
+Sitemap: https://birceari.github.io/css/birceari.txt.gz
+Sitemap: https://birceari.github.io/includes/birceari.txt.gz
+Sitemap: https://birceari.github.io/item/birceari.txt.gz
+Sitemap: https://birceari.github.io/src/birceari.txt.gz
